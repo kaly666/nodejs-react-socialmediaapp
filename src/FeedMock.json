@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "author": "Stephen King",
+        "title": "The Shawshank Redemption",
+        "text": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption. It tells the story of banker Andy Dufresne (Tim Robbins), who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover, despite his claims of innocence. Over the following two decades, he befriends a fellow prisoner, contraband smuggler Ellis \"Red\" Redding (Morgan Freeman), and becomes instrumental in a money-laundering operation led by the prison warden Samuel Norton (Bob Gunton). William Sadler, Clancy Brown, Gil Bellows, and James Whitmore appear in supporting roles.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+        "likes": 24
+    },
+    {
+        "id": 2,
+        "author": "Stephen King",
+        "title": "The Green Mile",
+        "text": "The Green Mile is a 1999 American fantasy crime drama film written and directed by Frank Darabont and based on Stephen King's 1996 novel of the same name. It stars Tom Hanks as a death row corrections officer during the U.S. Great Depression who witnesses supernatural events that occur after an enigmatic inmate (Michael Clarke Duncan) is brought to his facility. David Morse, Bonnie Hunt, Doug Hutchison, and James Cromwell appear in supporting roles.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Green_Mile_%28movie_poster%29.jpg",
+        "likes": 12
+    },
+    {
+        "id": 3,
+        "author": "Stephen King",
+        "title": "The Shining",
+        "text": "The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. The film is based on Stephen King's 1977 novel of the same name and stars Jack Nicholson, Shelley Duvall, Scatman Crothers, and Danny Lloyd.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/The_Shining_%281980%29_UK_poster.jpg",
+        "likes": 8
+    },
+    {
+        "id": 4,
+        "author": "Stephen King",
+        "title": "It",
+        "text": "It (also known as Stephen King's It) is a 1990 American ABC two-part psychological horror drama miniseries directed by Tommy Lee Wallace and adapted by Lawrence D. Cohen from Stephen King's 1986 novel of the same name. The story revolves around a predatory monster which has the ability to transform itself into its prey's worst fears, allowing it to exploit the phobias of its victims. It mostly takes the humanoid form of a sadistic, wisecracking clown called Pennywise the Dancing Clown (Tim Curry). The protagonists are The Lucky Seven, or The Losers Club, a group of outcast kids who discover Pennywise and vow to kill him by any means necessary. The series takes place over two different time periods, the first when the Losers first confront Pennywise as children in 1960,",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%281990_film%29_poster.jpg",
+        "likes": 16
+    },
+    {
+        "id": 5,
+        "author": "Stephen King",
+        "title": "Carrie",
+        "text": "Carrie is a 1976 American supernatural horror film directed by Brian De Palma from a screenplay written by Lawrence D. Cohen, adapted from Stephen King's 1974 epistolary novel of the same name. The film stars Sissy Spacek as the title character, Carrie White, a shy, diffident teenager who is routinely bullied at high school. Her peers are unaware that she possesses telekinetic powers. The film also features Piper Laurie, Amy Irving, Nancy Allen, William Katt, P. J. Soles, Betty Buckley, and John Travolta in supporting roles.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Carrie_movie_poster.jpg",
+        "likes": 5
+    },
+    {
+        "id": 6,
+        "author": "Stephen King",
+        "title": "Misery",
+        "text": "Misery is a 1990 American psychological thriller film directed by Rob Reiner based on Stephen King's 1987 novel of the same name, starring James Caan, Kathy Bates, Lauren Bacall, Richard Farnsworth, and Frances Sternhagen about a psychotic fan who holds an author captive and forces him to write her stories.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Miseryposter.jpg",
+        "likes": 7
+    },
+    {
+        "id": 7,
+        "author": "Stephen King",
+        "title": "Pet Sematary",
+        "text": "Pet Sematary is a 1989 American supernatural horror film directed by Mary Lambert. The screenplay by King is based on his 1983 novel of the same name. The film stars Dale Midkiff as Louis Creed, Denise Crosby as Rachel Creed, Blaze Berdahl as Ellie Creed, Miko Hughes as Gage Creed, and Fred Gwynne as Jud Crandall. Andrew Hubatsek was cast for Zelda's role. The title is a sensational spelling of \"pet cemetery\".",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Pet_sematary.jpg",
+        "likes": 3
+    },
+    {
+        "id": 8,
+        "author": "Stephen King",
+        "title": "Doctor Sleep",
+        "text": "Doctor Sleep is a 2019 American horror film based on the 2013 novel of the same name by Stephen King, a sequel to King's 1977 novel The Shining. The film, which also serves as a direct sequel to the film adaptation of The Shining, directed by Stanley Kubrick, is set several decades after the events of the original and combines elements of the 1977 novel as well.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Doctor_Sleep_poster.jpg",
+        "likes": 2
+    },
+    {
+        "id": 9,
+        "author": "Stephen King",
+        "title": "The Stand",
+        "text": "The Stand is a 1994 American television horror miniseries based on the novel of the same name by Stephen King. King also wrote the teleplay and has a minor role in the series. It was directed by Mick Garris and stars Gary Sinise, Miguel Ferrer, Rob Lowe, Ossie Davis, Ruby Dee, Jamey Sheridan, Laura San Giacomo, Molly Ringwald, Corin Nemec, Adam Storke, Ray Walston, and Matt Frewer. It originally aired on ABC starting on May 8, 1994.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/The_Stand_%28miniseries%29.jpg",
+        "likes": 1
+    }
+]

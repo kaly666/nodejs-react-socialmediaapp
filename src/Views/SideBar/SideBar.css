@@ -1,0 +1,15 @@
+.SideBar {
+    position: fixed;
+    /* display: flex;
+    flex-direction: column; */
+    justify-content: space-between;
+    background-color: #f8f9fa;
+    width: 250px;
+    height: 100vh;
+    /* padding: 20px; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.SideBar > * {
+    padding: 15px;
+}
